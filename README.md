@@ -1,6 +1,6 @@
 # Gênio do React 🚀
 
-Bem-vindo(a) ao repositório do projeto Gênio do React! Este projeto foi desenvolvido como parte do desafio do módulo 2 do curso de Desenvolvimento Front-end do Vai na Web. A seguir, você encontrará instruções detalhadas para executar o projeto e entender o que foi realizado.
+Bem-vindo(a) ao repositório do projeto Gênio do React! Este projeto foi desenvolvido como parte do desafio do módulo 2 do curso de Desenvolvimento Front-end do Vai na Web. A seguir, você encontrará detalhes do projeto realizado.
 
 # Descrição do Projeto
 Este projeto tem como objetivo principal explorar conceitos de estados no React e aplicar estilização com SCSS para criar uma página interativa e estilizada.
