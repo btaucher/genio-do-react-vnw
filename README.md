@@ -17,6 +17,6 @@ React - Biblioteca JavaScript para construção de interfaces de usuário.
 SASS/SCSS - Extensão do CSS com suporte a variáveis, aninhamento e mais.
 
 # Deploy
-
+https://genio-do-react-vnw.vercel.app/
 
 Projeto desenvolvido por Bruna Taucher
